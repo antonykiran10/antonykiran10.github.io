@@ -63,11 +63,11 @@ content:
         sub_title: Master's Thesis Student
         caption: May 2022 - Present
         quote: >
-          **Visually guided behaviours in Zebrafish larvae and the role of Fmn2b**
+          Visually guided behaviours in Zebrafish larvae and the role of Fmn2b
         description: | # this will include new lines to allow paragraphs
             Designing behavioural assays to study visually guided behaviours in larval zebrafish. Developed a platform to reliably perform restrained larval assays including an automatic stimulus delivery and integration unit and a pipeline for automatic behavioral analysis.
             
-            Supervisor: **Prof. Aurnab Ghose**, Division of Biology, IISER Pune
+            Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
 
       - layout: left
         title: Neuronal Connectivity Laboratory
@@ -76,11 +76,11 @@ content:
         sub_title: Semester Project Student
         caption: Jan 2022 - Apr 2022
         quote: >
-          **Modelling Neurodevelopmental disorders in zebrafish**
+          Modelling Neurodevelopmental disorders in zebrafish
         description: | # this will include new lines to allow paragraphs
             Characterization of zKPTN protein in Zebrafish neural development by generating conditional knockout of kaptin using CRISPR-Cas9 gene editing system.
             
-            Supervisor: **Prof. Aurnab Ghose**, Division of Biology, IISER Pune
+            Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
       - layout: left
         title: Curem Biotech LLP
         link: https://curembiotech.com/
@@ -88,11 +88,26 @@ content:
         sub_title: R&D intern
         caption: Aug 2021 - Feb 2022
         quote: >
-          **In-Silico designing and optimizing Aptamers against bio markers for Plasmodium falciparum malaria**
+          In-Silico designing and optimizing Aptamers against bio markers for Plasmodium falciparum malaria
         description: | # this will include new lines to allow paragraphs
             Generating a pipeline for designing and optimizing aptamers (ssDNA/RNA) against different infectious antigen for disease diagnostics using bioinformatic techniques. Involved in the initial phase for the R&D work for finding new leads for the project.
             
-            Supervisor: **Prof. Saikrishnan Kayarat, Division of Biology, IISER Pune**
+            Supervisor: **Dr. Saikrishnan Kayarat**, Division of Biology, IISER Pune
+
+      - layout: left
+        title: Computational Neurobiology Laboratory
+        link: https://curembiotech.com/
+        link_text: Link to Website
+        sub_title: Semester Project Student
+        caption: Aug 2021 - Jan 2022
+        quote: >
+          Simulate computational models for Astrocyte-Neuron interaction
+        description: | # this will include new lines to allow paragraphs
+            Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab (Pillai and Nadkarni, 2022).
+
+            [Visit my website](https://www.example.com)
+            
+            Supervisor: **Dr. Suhita Nadkarni**, Division of Biology, IISER Pune
       
             
   - title: Education # Title for the section
