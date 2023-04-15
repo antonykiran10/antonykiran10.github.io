@@ -189,7 +189,7 @@ content:
       - layout: left
         title: St. Philomina's HSS
         caption: Jun 2014 - Mar 2015
-        sub_title: HSecondary School Leaving Certificate (SSLC)
+        sub_title: Secondary School Leaving Certificate (SSLC)
         quote: >          
           
         description: | # this will include new lines to allow paragraphs
@@ -207,7 +207,7 @@ content:
           Qualified in the National level entrance examination of Council of Scientific and Industrial Research (CSIR) for the Junior Research Fellowship (JRF) with all India Rank 123 for eligibility for lectureship and funded PhD and projects in Indian Universities.
 
       - layout: left
-        title: Graduate Aptitude Test in Engineering (GATE) – Life Science Stream
+        title: 'Graduate Aptitude Test in Engineering (GATE) : Life Science Stream'
         caption: Mar 2022
         sub_title: AIR 1098
         quote: >          
