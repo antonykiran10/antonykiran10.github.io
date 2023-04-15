@@ -120,6 +120,23 @@ content:
             
             Supervisor: **Dr. Joy Merwin Monteiro**, Division of Earth, and Climate Science, IISER Pune
       
+      - layout: left
+        title: iGEM IISER-Pune-India 2020
+        link: https://2020.igem.org/Team:IISER-Pune-India
+        link_text: Link to Website
+        sub_title: Core Team member
+        caption: Aug 2021 - Jan 2022
+        quote: >
+          Anopheles: The Half Blood Princess
+        description: | # this will include new lines to allow paragraphs
+            Represented IISER Pune at the Giant Jamboree of the iGEM 2020 competition.
+            Involved in the conceptualization and research of the project aimed at developing a novel peptide library against malaria and its documentation on the team wiki.
+            Was part of the Dry Lab team involved in researching, troubleshooting and
+            developing computational models of Novel peptides against Plasmodium falciparum
+            malaria. Involved in developing, troubleshooting, and documenting the scripts used on the
+            team's GitHub repository
+            
+            Supervisor: **Dr. Sanjeev Galande**, Division of Biology, IISER Pune (currently on lien to Shiv Nadar University, Uttar Pradesh, India)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
