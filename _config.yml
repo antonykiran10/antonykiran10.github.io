@@ -300,7 +300,8 @@ content:
   - title: Core Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Molecular Biology
+      - Molecular Biology : [as, be]
+
         -- Gateway cloning
         -- UAS-Gal4 system
         -- In-vitro transcription
