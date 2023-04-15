@@ -96,6 +96,21 @@ content:
 
       - layout: left
         title: Computational Neurobiology Laboratory
+        link: https://sites.google.com/view/computationalneurobiologylab/home?
+        link_text: Link to Website
+        sub_title: Semester Project Student
+        caption: Aug 2021 - Jan 2022
+        quote: >
+          Simulate computational models for Astrocyte-Neuron interaction
+        description: | # this will include new lines to allow paragraphs
+            Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab (Pillai and Nadkarni, 2022).
+
+            [Visit my website](https://www.example.com)
+            
+            Supervisor: **Dr. Suhita Nadkarni**, Division of Biology, IISER Pune
+
+      - layout: left
+        title: Weather, Climate and People
         link: https://curembiotech.com/
         link_text: Link to Website
         sub_title: Semester Project Student
