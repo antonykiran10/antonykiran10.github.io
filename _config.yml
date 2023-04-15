@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Neuronal Connectivity Laboratory
         link: https://neuronalconnectivity.wixsite.com/start
-        link_text: Link to Lab Website
+        link_text: Link to Website
         sub_title: Master's Thesis Student
         caption: May 2022 - Present
         quote: >
@@ -72,7 +72,7 @@ content:
       - layout: left
         title: Neuronal Connectivity Laboratory
         link: https://neuronalconnectivity.wixsite.com/start
-        link_text: Link to Lab Website
+        link_text: Link to Website
         sub_title: Semester Project Student
         caption: Jan 2022 - Apr 2022
         quote: >
@@ -109,18 +109,16 @@ content:
 
       - layout: left
         title: Weather, Climate and People
-        link: https://curembiotech.com/
+        link: https://joymonteiro.github.io/
         link_text: Link to Website
-        sub_title: Semester Project Student
+        sub_title: Summer Intern
         caption: Aug 2021 - Jan 2022
         quote: >
-          Simulate computational models for Astrocyte-Neuron interaction
+          BharatSim for compartmentalized epidemiological modelling
         description: | # this will include new lines to allow paragraphs
-            Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab (Pillai and Nadkarni, 2022).
-
-            [Visit my website](https://www.example.com)
+            A short-term project to learn about epidemiological modelling using BharatSim, a collaborative project between Ashoka University (Haryana, India) and Thoughtworks, funded by the Bill & Melinda Gates Foundation
             
-            Supervisor: **Dr. Suhita Nadkarni**, Division of Biology, IISER Pune
+            Supervisor: **Dr. Joy Merwin Monteiro**, Division of Earth, and Climate Science, IISER Pune
       
             
   - title: Education # Title for the section
