@@ -300,17 +300,25 @@ content:
   - title: Core Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - {Molecular Biology : [as, be]}
+      **Molecular Biology**:
+        - Gateway cloning
+        - UAS-Gal4 system
+        - In-vitro transcription
+        - DNA, RNA and plasmid purification
+        - Agarose gel electrophoresis
+        - Tol2 transposase based transgenesis in zebrafish
+        - PCR
+      **Zebrafish handling**:
+      - Embryo microinjection
+      - Natural breeding
+      - Maintenance of different transgenic and wild type lines
+      - Fin clipping
+      - Restrained larval behavioral experiments
+      - Free swimming larval behavioral experiments
+      - Automatic larval movement tracking
 
-        -- Gateway cloning
-        -- UAS-Gal4 system
-        -- In-vitro transcription
-        --DNA, RNA and plasmid
-        purification
-        -- Agarose gel electrophoresis
-        --Tol2 transposase based
-        transgenesis in zebrafish
-        -- PCR
+
+
 
 # Footer
 footer_show_references: true
