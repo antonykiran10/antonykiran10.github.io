@@ -177,7 +177,7 @@ content:
 
       - layout: left
         title: Model Technical Higher Secondary School
-        caption: 2018 - Present
+        caption: Jun 2015 - Mar 2017
         sub_title: Higher Secondary Schooling-Integrated Sciences Stream (Technical)
         quote: >          
           
@@ -185,6 +185,17 @@ content:
           Board of Higher Secondary Examinations, Government of Kerala
 
           Score: __% (Percentage)
+
+      - layout: left
+        title: St. Philomina's HSS
+        caption: Jun 2014 - Mar 2015
+        sub_title: HSecondary School Leaving Certificate (SSLC)
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          General Education Department, Government of Kerala
+
+          Score: __ % (Grade point percentage)
 
 
   - title: A Little More About Me
