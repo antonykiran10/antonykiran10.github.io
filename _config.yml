@@ -138,8 +138,6 @@ content:
             
             Supervisor: **Dr. Sanjeev Galande**, Division of Biology, IISER Pune (currently on lien to Shiv Nadar University, Uttar Pradesh, India)
 
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Neuronal Connectivity Laboratory
         link: https://neuronalconnectivity.wixsite.com/start
