@@ -112,7 +112,7 @@ content:
         link: https://joymonteiro.github.io/
         link_text: Link to Website
         sub_title: Summer Intern
-        caption: Aug 2021 - Jan 2022
+        caption: May 2021 - Jun 2021
         quote: >
           BharatSim for compartmentalized epidemiological modelling
         description: | # this will include new lines to allow paragraphs
@@ -125,7 +125,7 @@ content:
         link: https://2020.igem.org/Team:IISER-Pune-India
         link_text: Link to Website
         sub_title: Core Team member
-        caption: Aug 2021 - Jan 2022
+        caption: Nov 2019 - Nov 2020
         quote: >
           Anopheles: The Half Blood Princess
         description: | # this will include new lines to allow paragraphs
@@ -137,6 +137,21 @@ content:
             team's GitHub repository
             
             Supervisor: **Dr. Sanjeev Galande**, Division of Biology, IISER Pune (currently on lien to Shiv Nadar University, Uttar Pradesh, India)
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Neuronal Connectivity Laboratory
+        link: https://neuronalconnectivity.wixsite.com/start
+        link_text: Link to Website
+        sub_title: Winter Intern
+        caption: Dec 2019 - Feb 2020
+        quote: >
+          Zebrafish in neuroscience research
+        description: | # this will include new lines to allow paragraphs
+            A short internship to get familiarized with basic laboratory techniques and zebrafish handling for research purposes
+            
+            Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
