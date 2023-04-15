@@ -103,9 +103,7 @@ content:
         quote: >
           Simulate computational models for Astrocyte-Neuron interaction
         description: | # this will include new lines to allow paragraphs
-            Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab (Pillai and Nadkarni, 2022).
-
-            [Visit my website](https://www.example.com)
+            Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab ([Pillai and Nadkarni, 2022](https://doi.org/10.1371/journal.pcbi.1010334)).
             
             Supervisor: **Dr. Suhita Nadkarni**, Division of Biology, IISER Pune
 
