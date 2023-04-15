@@ -68,7 +68,7 @@ content:
             Designing behavioural assays to study visually guided behaviours in larval zebrafish. Developed a platform to reliably perform restrained larval assays including an automatic stimulus delivery and integration unit and a pipeline for automatic behavioral analysis.
             
             Supervisor: **Prof. Aurnab Ghose**, Division of Biology, IISER Pune
-    content:
+    # content:
       - layout: left
         title: Neuronal Connectivity Laboratory
         link: https://neuronalconnectivity.wixsite.com/start
