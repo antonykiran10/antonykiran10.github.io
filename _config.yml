@@ -196,17 +196,54 @@ content:
           General Education Department, Government of Kerala
 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Achievements and Awards
+      - layout: left
+        title: CSIR-Junior Research Fellowship (CSIR-JRF)
+        caption: Mar 2022
+        sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Qualified in the National level entrance examination of Council of Scientific and Industrial Research (CSIR) for the Junior Research Fellowship (JRF) with all India Rank 123 for eligibility for lectureship and funded PhD and projects in Indian Universities.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - layout: left
+        title: Graduate Aptitude Test in Engineering (GATE) – Life Science Stream
+        caption: Mar 2022
+        sub_title: AIR 1098
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Qualified in the National Level aptitude test in Engineering conducted jointly by the seven Indian Institute of Technology (IIT) and Indian Institute of Science (IISc), Bengaluru with all India Rank 1098 for eligibility into various master's and PhD programs in India and Recruitment into public sector companies.
+
+      - layout: left
+        title: Gold Medal at the iGEM competition 2020
+        caption: Nov 2020
+        # sub_title: AIR 1098
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation, and our team bagged the gold medal for satisfying the prescribed medal criterions.
+
+      - layout: left
+        title: iGEMer's Award 2020
+        caption: Nov 2020
+        # sub_title: AIR 1098
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation and our team's project was voted the best project by all other competing team.
+
+
+  - title: Conferences and Workshops
+      - layout: left
+        title: CSIR-Junior Research Fellowship (CSIR-JRF)
+        caption: Mar 2022
+        sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Qualified in the National leve
+
 
 # Footer
 footer_show_references: true
