@@ -170,7 +170,7 @@ content:
         Current Semester':' 10; doing my master's thesis
 
 
-  - title: A Little More About Me
+  - title: A Little More About Me eeee
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
