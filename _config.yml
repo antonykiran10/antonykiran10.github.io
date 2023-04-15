@@ -236,15 +236,61 @@ content:
 
   - title: Conferences and Workshops
       - layout: left
-        title: CSIR-Junior Research Fellowship (CSIR-JRF)
-        caption: Mar 2022
-        sub_title: AIR 123
+        title: No-Garland Neuroscience 2023 (NGN 2023)
+        caption: Feb 2023
+        # sub_title: AIR 123
         quote: >          
           
         description: | # this will include new lines to allow paragraphs
-          Qualified in the National leve
+          Attended this 3-day conference on Neuroscience.
 
+      - layout: left
+        title: Indian Zebrafish Investigators Meeting 2022 (IZIM 2022)
+        caption: Sep 2022
+        # sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Attended this 3-day IZIM 2020 conference and was also part of the organizing committee.
 
+      - layout: left
+        title: iGEM Indian Jamboree Meetup 2021
+        caption: Nov 2021
+        # sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Attended this 2-day meetup at Goa and celebrated synthetic biology.
+
+      - layout: left
+        title: iGEM Giant Jamboree
+        caption: Nov 2020
+        # sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Attended and presented the team project and won the gold medal for the project and
+          iGEMer's award. The 10-day virtual event was focused on various aspects of synthetic
+          biology along with an entrepreneur angle as well.
+
+      - layout: left
+        title: All India iGEM meet 2020
+        caption: Jul 2020
+        # sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Attended this 2-day virtual meeting and presented our iGEM
+          project. 
+
+      - layout: left
+        title: Robotics Workshop, IISER Pune
+        caption: Oct 2019
+        # sub_title: AIR 123
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Attended this 2-day workshop and learned the basics on using Arduino microcontroller.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
