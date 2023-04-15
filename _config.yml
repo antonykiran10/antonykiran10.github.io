@@ -157,15 +157,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Indian Institute of Science Education and Research (IISER) Pune
+        caption: 2018 - Present
+        sub_title: BS-MS Biology
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        5-year Integrated Master's Program
+        Relevant Coursework':'
+          • Introductory courses in all basic and applied disciplines of Biology, Chemistry, Physics, Mathematics, Earth and Climate Sciences, Humanities and Computation. During the first two years.
+          • Advanced courses in Biochemistry, Developmental Biology, Structural biology, Advanced immunology, Scientific literature Review, Mathematical and Computational Biology Evolution and Biology and Disease during my 4th year
+          • A yearlong master's thesis during the 5th year entitled "Visually guided behaviours in Zebrafish larvae and the role of Fmn2b" at the Neuronal Connectivity Laboratory, IISER Pune.
+        Current CGPA: 7.3
+        Current Semester':' 10; doing my master's thesis
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
