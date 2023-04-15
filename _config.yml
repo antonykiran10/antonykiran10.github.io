@@ -301,7 +301,7 @@ content:
 
   - title: Core Skills # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: |
       -Molecular Biology
         --Gateway cloning
         --UAS-Gal4 system
