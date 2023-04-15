@@ -179,6 +179,17 @@ content:
 
           Current Semester: 10; doing my master's thesis
 
+      - layout: left
+        title: Model Technical Higher Secondary School
+        caption: 2018 - Present
+        sub_title: Higher Secondary Schooling-Integrated Sciences Stream (Technical)
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          Board of Higher Secondary Examinations, Government of Kerala
+
+          Score: __% (Percentage)
+
 
   - title: A Little More About Me
     layout: text
