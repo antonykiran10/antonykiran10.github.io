@@ -184,7 +184,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Board of Higher Secondary Examinations, Government of Kerala
 
-          Score: __% (Percentage)
+
 
       - layout: left
         title: St. Philomina's HSS
@@ -194,8 +194,6 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           General Education Department, Government of Kerala
-
-          Score: __ % (Grade point percentage)
 
 
   - title: A Little More About Me
