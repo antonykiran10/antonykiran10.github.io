@@ -239,7 +239,7 @@ content:
           Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation and our team's project was voted the best project by all other competing team.
 
 
-  - title: Achievements and Awards # Title for the section
+  - title: Conferences and Workshops # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -299,7 +299,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           Attended this 2-day workshop and learned the basics on using Arduino microcontroller.
 
-
+  - title: Core Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      menu:
+    - label: File
+      options:
+        - New
+        - Open
+        - Save
+        - Save As
+        - ---
+        - Exit
+    - label: Edit
+      options:
+        - Cut
+        - Copy
+        - Paste
 
 # Footer
 footer_show_references: true
