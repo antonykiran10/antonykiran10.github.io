@@ -204,7 +204,8 @@ content:
         quote: >          
           
         description: | # this will include new lines to allow paragraphs
-          Qualified in the National level entrance examination of Council of Scientific and Industrial Research (CSIR) for the Junior Research Fellowship (JRF) with all India Rank 123 for eligibility for lectureship and funded PhD and projects in Indian Universities.
+          Qualified in the National level entrance examination of Council of Scientific and Industrial Research 
+          (CSIR) for the Junior Research Fellowship (JRF) with all India Rank 123 for eligibility for lectureship and funded PhD and projects in Indian Universities.
 
       - layout: left
         title: 'Graduate Aptitude Test in Engineering (GATE) : Life Science Stream'
@@ -213,7 +214,8 @@ content:
         quote: >          
           
         description: | # this will include new lines to allow paragraphs
-          Qualified in the National Level aptitude test in Engineering conducted jointly by the seven Indian Institute of Technology (IIT) and Indian Institute of Science (IISc), Bengaluru with all India Rank 1098 for eligibility into various master's and PhD programs in India and Recruitment into public sector companies.
+          Qualified in the National Level aptitude test in Engineering conducted jointly by the seven Indian Institute of Technology (IIT) and 
+          Indian Institute of Science (IISc), Bengaluru with all India Rank 1098 for eligibility into various master's and PhD programs in India and Recruitment into public sector companies.
 
       - layout: left
         title: Gold Medal at the iGEM competition 2020
@@ -222,7 +224,8 @@ content:
         quote: >          
           
         description: | # this will include new lines to allow paragraphs
-          Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation, and our team bagged the gold medal for satisfying the prescribed medal criterions.
+          Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the 
+          iGEM foundation, and our team bagged the gold medal for satisfying the prescribed medal criterions.
 
       - layout: left
         title: iGEMer's Award 2020
