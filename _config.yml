@@ -159,17 +159,22 @@ content:
         caption: 2018 - Present
         sub_title: BS-MS Biology
         quote: >
+          rr
           
         description: | # this will include new lines to allow paragraphs
           5-year Integrated Master's Program
+
           Relevant Coursework:
-          Introductory courses in all basic and applied disciplines of Biology, Chemistry, Physics, Mathematics, Earth and Climate Sciences, Humanities and Computation. During the first two years.
-          Advanced courses in Biochemistry, Developmental Biology, Structural biology, Advanced immunology, Scientific literature Review, Mathematical and Computational Biology Evolution and Biology and Disease during my 4th year
-          A yearlong master's thesis during the 5th year entitled "Visually guided behaviours in Zebrafish larvae and the role of Fmn2b" at the Neuronal Connectivity Laboratory, IISER Pune.
+
+          - Introductory courses in all basic and applied disciplines of Biology, Chemistry, Physics, Mathematics, Earth and Climate Sciences, Humanities and Computation. During the first two years.
+          - Advanced courses in Biochemistry, Developmental Biology, Structural biology, Advanced immunology, Scientific literature Review, Mathematical and Computational Biology Evolution and Biology and Disease during my 4th year
+          - A yearlong master's thesis during the 5th year entitled "Visually guided behaviours in Zebrafish larvae and the role of Fmn2b" at the Neuronal Connectivity Laboratory, IISER Pune.
+          
           Current CGPA: 7.3
+
           Current Semester: 10; doing my master's thesis
 
-          
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
