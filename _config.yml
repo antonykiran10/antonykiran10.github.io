@@ -47,9 +47,10 @@ linkedin_username: antonykiran10
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a neuroscientist holding a master's degree with 5 years of interdisciplinary coursework and lab experiences, including a full-time internship for 1 year.
+  A biologist with experience in Molecular biology and scientific programming exploring ways to harness the powers of molecular biology, imaging and data analysis to better understand how the brain forms its connections.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Neurobiology</mark> | <mark>Computational Biology</mark> | <mark>Molecular Biology</mark>
 
 content:
   - title: Projects # Title for the section
