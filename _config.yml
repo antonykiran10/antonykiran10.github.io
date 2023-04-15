@@ -239,7 +239,9 @@ content:
           Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation and our team's project was voted the best project by all other competing team.
 
 
-  - title: Conferences and Workshops
+  - title: Achievements and Awards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: No-Garland Neuroscience 2023 (NGN 2023)
         caption: Feb 2023
