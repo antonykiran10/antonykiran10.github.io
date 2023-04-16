@@ -308,7 +308,7 @@ content:
         - Agarose gel electrophoresis
         - Tol2 transposase based transgenesis in zebrafish
         - PCR
-        
+
       **Zebrafish handling**:
       - Embryo microinjection
       - Natural breeding
@@ -317,6 +317,14 @@ content:
       - Restrained larval behavioral experiments
       - Free swimming larval behavioral experiments
       - Automatic larval movement tracking
+
+      Colons can be used to align columns.
+
+      | Tables        | Are           | Cool  |
+      | ------------- |:-------------:| -----:|
+      | col 3 is      | right-aligned | $1600 |
+      | col 2 is      | centered      |   $12 |
+      | zebra stripes | are neat      |    $1 |
 
 
 
