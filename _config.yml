@@ -391,6 +391,16 @@ content:
           Project Encephalon (PE) is an international, trainee-led non-profit, organization for neuroscience 
           enthusiasts and conducts various academic and non-academic neuroscience-related activities
 
+      - layout: left
+        title: iGEM community
+        caption: Dec 2020 - Present
+        sub_title: International
+        quote: >          
+          
+        description: | # this will include new lines to allow paragraphs
+          iGEM Community has individuals who have gone through the iGEM Competition and more who
+          have contributed to or participated in the efforts of iGEM.
+
 
 
 
