@@ -51,8 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a neuroscientist with interdisciplinary coursework and lab experiences.
   A biologist with experience in Molecular biology and scientific programming exploring ways to harness the powers of molecular biology, imaging and data analysis to better understand how the brain forms its connections.
 
-  <mark>Neurobiology</mark>  <mark>Computational Biology</mark>  <mark>Molecular Biology</mark>
-
+  <mark>Neurobiology</mark>  <mark>Computational Biology</mark>  <mark>Molecular Biology</mark
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -423,6 +422,8 @@ content:
       Apart from studying brain, I enjoy **traveling**, **cooking** and **listening to music**. 
       
       During my BS-MS at IISER Pune, **monsoon treks** to the western ghats were one of my favourite ways of connecting with nature to balance my self.
+
+      Languages: <mark>English</mark>  <mark>Malayalam</mark>  <mark>Hindi</mark>
 
 
 # Footer
