@@ -318,6 +318,46 @@ content:
       Free swimming larval behavioral experiments, 
       Automatic larval movement tracking
 
+      ** Bioinformatics**: 
+      Homology based 3D structure prediction of proteins, 
+      Computational saturated mutagenesis, 
+      Motif identification and inhibitor designing, 
+      Scoring of large libraires of potential inhibitors, 
+      Molecular dynamic simulations
+
+      **Theoretical modelling**: 
+      Numerical computation involving, 
+      stochastic differential equations, 
+      Reaction kinetics models, 
+      Compartmental models, 
+      Epidemiological models, 
+      Spiking neuron models
+
+      **Data science**: 
+      Large file handling:HDF5, CSV, 
+      Data visualization, 
+      Statistical analysis, 
+      Web scrapping
+
+      **Programming languages**:
+      Python, 
+      R, 
+      C++, 
+      Scala, 
+      MATLAB, 
+      Arduino, 
+      Bash
+
+      **Microscopy**: 
+      Widefield epifluorescence microscopy, 
+      Confocal microscopy
+
+      **Other computational skills**: 
+      Experience with SLURM based supercomputing clusters, 
+      Knowledge of basic computer hardware, 
+      Parallelization of codes on super computing clusters, 
+      Automation of routine tasks
+
 
 
 
