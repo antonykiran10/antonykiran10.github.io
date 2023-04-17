@@ -417,6 +417,12 @@ content:
       Involved in teaching basic Math and Science for them.
 
 
+  - title: Little more about me # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      Apart from studying brain, I enjoy **traveling**, **cooking** and **listening to music**. 
+      
+      During my BS-MS at IISER Pune, **monsoon treks** to the western ghats were one of my favourite ways of connecting with nature to balance my self.
 
 
 # Footer
