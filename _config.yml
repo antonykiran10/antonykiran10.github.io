@@ -5,6 +5,8 @@ favicon: images/favicon.ico
 # Content configuration version
 version: 2
 
+
+
 # Personal info
 name: ANTONY KIRAN KOLARIKKAL DAVID
 title: |
@@ -160,7 +162,7 @@ content:
          
         description: | # this will include new lines to allow paragraphs
             **Zebrafish in neuroscience research**
-            
+
             A short internship to get familiarized with basic laboratory techniques and zebrafish handling for research purposes
             
             Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
