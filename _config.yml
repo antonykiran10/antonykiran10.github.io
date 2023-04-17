@@ -297,7 +297,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Attended this 2-day workshop and learned the basics on using Arduino microcontroller.
 
-  - title: Core Skills # Title for the section
+  - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - **Molecular Biology**:
@@ -361,6 +361,34 @@ content:
       - **Other technical skills**:
       Soldering, 
       Basic Electronic circuits
+
+
+      **Soft Skills**:
+      Critical thinking, 
+      Ability to work in a team, 
+      Communication, 
+      Presentation, 
+      Remote working, 
+      Project management, 
+      Familiar with most online communication platforms, 
+      Time management, 
+      Stress management, 
+      Reliability, 
+      Relationship building, 
+      Openness to ideas
+
+
+  - title: Soft Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Molecular Biology**:
+        Gateway cloning, 
+        UAS-Gal4 system, 
+        In-vitro transcription, 
+        DNA, RNA and plasmid purification, 
+        Agarose gel electrophoresis, 
+        Tol2 transposase based transgenesis in zebrafish, 
+        PCR
 
 
 
