@@ -63,8 +63,10 @@ content:
         sub_title: Master's Thesis Student
         caption: May 2022 - Present
         quote: >
-          Visually guided behaviours in Zebrafish larvae and the role of Fmn2b
+          
         description: | # this will include new lines to allow paragraphs
+            **Visually guided behaviours in Zebrafish larvae and the role of Fmn2b**
+
             Designing behavioural assays to study visually guided behaviours in larval zebrafish. Developed a platform to reliably perform restrained larval assays including an automatic stimulus delivery and integration unit and a pipeline for automatic behavioral analysis.
             
             Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
@@ -76,8 +78,10 @@ content:
         sub_title: Semester Project Student
         caption: Jan 2022 - Apr 2022
         quote: >
-          Modelling Neurodevelopmental disorders in zebrafish
+          
         description: | # this will include new lines to allow paragraphs
+            **Modelling Neurodevelopmental disorders in zebrafish**
+
             Characterization of zKPTN protein in Zebrafish neural development by generating conditional knockout of kaptin using CRISPR-Cas9 gene editing system.
             
             Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
@@ -88,8 +92,10 @@ content:
         sub_title: R&D intern
         caption: Aug 2021 - Feb 2022
         quote: >
-          In-Silico designing and optimizing Aptamers against bio markers for Plasmodium falciparum malaria
+          
         description: | # this will include new lines to allow paragraphs
+            **In-Silico designing and optimizing Aptamers against bio markers for Plasmodium falciparum malaria**
+
             Generating a pipeline for designing and optimizing aptamers (ssDNA/RNA) against different infectious antigen for disease diagnostics using bioinformatic techniques. Involved in the initial phase for the R&D work for finding new leads for the project.
             
             Supervisor: **Dr. Saikrishnan Kayarat**, Division of Biology, IISER Pune
@@ -101,8 +107,10 @@ content:
         sub_title: Semester Project Student
         caption: Aug 2021 - Jan 2022
         quote: >
-          Simulate computational models for Astrocyte-Neuron interaction
+          
         description: | # this will include new lines to allow paragraphs
+            **Simulate computational models for Astrocyte-Neuron interaction**
+
             Replication of a biophysical model for calcium dependent gliotransmitter release at a tripartite synapse which was developed in the lab ([Pillai and Nadkarni, 2022](https://doi.org/10.1371/journal.pcbi.1010334)).
             
             Supervisor: **Dr. Suhita Nadkarni**, Division of Biology, IISER Pune
@@ -116,6 +124,8 @@ content:
         quote: >
           BharatSim for compartmentalized epidemiological modelling
         description: | # this will include new lines to allow paragraphs
+            **BharatSim for compartmentalized epidemiological modelling**
+
             A short-term project to learn about epidemiological modelling using BharatSim, a collaborative project between Ashoka University (Haryana, India) and Thoughtworks, funded by the Bill & Melinda Gates Foundation
             
             Supervisor: **Dr. Joy Merwin Monteiro**, Division of Earth, and Climate Science, IISER Pune
@@ -127,8 +137,10 @@ content:
         sub_title: Core Team member
         caption: Nov 2019 - Nov 2020
         quote: >
-          Anopheles: The Half Blood Princess
+          
         description: | # this will include new lines to allow paragraphs
+            **Anopheles: The Half Blood Princess**
+
             Represented IISER Pune at the Giant Jamboree of the iGEM 2020 competition.
             Involved in the conceptualization and research of the project aimed at developing a novel peptide library against malaria and its documentation on the team wiki.
             Was part of the Dry Lab team involved in researching, troubleshooting and
@@ -145,8 +157,10 @@ content:
         sub_title: Winter Intern
         caption: Dec 2019 - Feb 2020
         quote: >
-          Zebrafish in neuroscience research
+         
         description: | # this will include new lines to allow paragraphs
+            **Zebrafish in neuroscience research**
+            
             A short internship to get familiarized with basic laboratory techniques and zebrafish handling for research purposes
             
             Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
