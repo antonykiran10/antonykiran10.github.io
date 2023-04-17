@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a neuroscientist with interdisciplinary coursework and lab experiences.
   A biologist with experience in Molecular biology and scientific programming exploring ways to harness the powers of molecular biology, imaging and data analysis to better understand how the brain forms its connections.
 
-  <mark>Neurobiology</mark>  <mark>Computational Biology</mark>  <mark>Molecular Biology</mark
+  <mark>Neurobiology</mark>  <mark>Computational Biology</mark>  <mark>Molecular Biology</mark>
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
