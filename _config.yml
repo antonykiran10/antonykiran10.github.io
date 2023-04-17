@@ -300,7 +300,7 @@ content:
   - title: Core Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **Molecular Biology**:
+      -**Molecular Biology**:
         Gateway cloning, 
         UAS-Gal4 system, 
         In-vitro transcription, 
@@ -309,7 +309,7 @@ content:
         Tol2 transposase based transgenesis in zebrafish, 
         PCR
 
-      **Zebrafish handling**:
+      -**Zebrafish handling**:
       Embryo microinjection, 
       Natural breeding, 
       Maintenance of different transgenic and wild type lines, 
@@ -318,14 +318,14 @@ content:
       Free swimming larval behavioral experiments, 
       Automatic larval movement tracking
 
-      ** Bioinformatics**: 
+      -**Bioinformatics**: 
       Homology based 3D structure prediction of proteins, 
       Computational saturated mutagenesis, 
       Motif identification and inhibitor designing, 
       Scoring of large libraires of potential inhibitors, 
       Molecular dynamic simulations
 
-      **Theoretical modelling**: 
+      -**Theoretical modelling**: 
       Numerical computation involving, 
       stochastic differential equations, 
       Reaction kinetics models, 
@@ -333,13 +333,13 @@ content:
       Epidemiological models, 
       Spiking neuron models
 
-      **Data science**: 
+      -**Data science**: 
       Large file handling:HDF5, CSV, 
       Data visualization, 
       Statistical analysis, 
       Web scrapping
 
-      **Programming languages**:
+      -**Programming languages**:
       Python, 
       R, 
       C++, 
@@ -348,11 +348,11 @@ content:
       Arduino, 
       Bash
 
-      **Microscopy**: 
+      -**Microscopy**: 
       Widefield epifluorescence microscopy, 
       Confocal microscopy
 
-      **Other computational skills**: 
+      -**Other computational skills**: 
       Experience with SLURM based supercomputing clusters, 
       Knowledge of basic computer hardware, 
       Parallelization of codes on super computing clusters, 
