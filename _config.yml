@@ -300,6 +300,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **Core Skills**
       - **Molecular Biology**:
         Gateway cloning, 
         UAS-Gal4 system, 
