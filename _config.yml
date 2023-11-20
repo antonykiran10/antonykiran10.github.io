@@ -57,21 +57,21 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
-        title: Neuronal Connectivity Laboratory
-        link: https://neuronalconnectivity.wixsite.com/start
-        link_text: Link to Website
-        sub_title: Project Assistant
-        caption: June 2023 - Present
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            **Elucidating mechanisms of neuronal homeostasis**
-
-            Investigating microtubule post-translational modifications in chemotherapy-induced peripheral neuropathy (CIPN) using primary neuronal cultures.
-            Designing and standardizing behavioural assays to probe neuronal developmental disorders in larval zebrafish.
+      - layout: left
+          title: Neuronal Connectivity Laboratory
+          link: https://neuronalconnectivity.wixsite.com/start
+          link_text: Link to Website
+          sub_title: Project Assistant
+          caption: June 2023 - Present
+          quote: >
             
-            Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
+          description: | # this will include new lines to allow paragraphs
+              **Elucidating mechanisms of neuronal homeostasis**
+
+              Investigating microtubule post-translational modifications in chemotherapy-induced peripheral neuropathy (CIPN) using primary neuronal cultures.
+              Designing and standardizing behavioural assays to probe neuronal developmental disorders in larval zebrafish.
+              
+              Supervisor: **Dr. Aurnab Ghose**, Division of Biology, IISER Pune
       - layout: left
         title: Neuronal Connectivity Laboratory
         link: https://neuronalconnectivity.wixsite.com/start
