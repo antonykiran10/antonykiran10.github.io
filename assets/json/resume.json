@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Antony Kiran Kolarikkal David",
-    "Current Position": "PhD Student",
+    "Position": "PhD Student",
     "image": "",
     "email": "antonykiran10@gmail.com",
     "summary": "I am a neuroscientist with interdisciplinary coursework and lab experience. A biologist with experience in Molecular biology and scientific programming exploring ways to harness the powers of molecular biology, imaging and data analysis to better understand how the brain forms its connections.",
@@ -45,6 +45,30 @@
       "A flexible pipeline for larval zebrafish tracking and their analysis",
       "Baseline analysis of various visually guided behaviours as a proof of concept of StimUNO"
     ]
+    },
+
+    {
+      "organization": "Neuronal Connectivity Laboratory, IISER Pune",
+      "location": "Pune, India",
+      "position": "Semester Project Student",
+      "url": "https://neuronalconnectivity.wixsite.com/start",
+      "startDate": "2022-01-01",
+      "endDate": "2022-04-31",
+      "summary": "Modelling Neurodevelopmental disorders in zebrafish",
+      "highlights": ["Involved in characterization of zKPTN protein in Zebrafish neural development by generating conditional knockout of kaptin using CRISPR-Cas9 gene editing system."
+    ]
+    },
+    {
+      "organization": "Curem Biotech LLP",
+      "location": "Pune, India",
+      "position": "R&D intern",
+      "url": "https://www.curembiotech.com/",
+      "startDate": "2021-07-01",
+      "endDate": "2022-02-28",
+      "summary": "In-Silico designing and optimizing Aptamers against bio markers for Plasmodium falciparum malaria",
+      "highlights": ["An in-silico pipeline for designing and optimizing aptamers (ssDNA/RNA)",
+    "An inventory of potential biomarkers against P. falciparum malaria",
+  "Involved in the initial phase of the R&D work for finding new leads for the project."]
     }
   ],
   "education": [
