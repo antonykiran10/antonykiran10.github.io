@@ -31,16 +31,20 @@
       "highlights": ["Understanding the role of microtubule post-translational modifications at the onset of chemotherapy-induced peripheral neuropathy (CIPN).", "Designing and standardizing behavioural assays to probe neuronal developmental disorders in larval zebrafish and developing a computer-vision-based tracker for the analysis"]
     }
   ],
-  "volunteer": [
+  "Research Background": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Neuronal Connectivity Laboratory, IISER Pune",
+      "location": "Pune, India",
+      "position": "Masters Thesis Student",
+      "url": "https://neuronalconnectivity.wixsite.com/start",
+      "startDate": "2022-05-01",
+      "endDate": "2023-05-31",
+      "summary": "Visually guided behaviours in Zebrafish larvae and the role of Fmn2b",
+      "highlights": ["StimUNO: a platform for automatic stimulation and behaviour recording for zebrafish larvae", 
+      "Men of the year 2014 by Time magazine",
+      "A flexible pipeline for larval zebrafish tracking and their analysis",
+      "Baseline analysis of various visually guided behaviours as a proof of concept of StimUNO"
+    ]
     }
   ],
   "education": [
