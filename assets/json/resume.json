@@ -166,17 +166,17 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "No-Garland Neuroscience (NGN) 2023",
+      "date": "2023-02-01",
+      "issuer": "National neuroscience conference",
+      "url": "https://sites.google.com/students.iiserpune.ac.in/ngn--2023/home?",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Indian Zebrafish Investigators Meeting (IZIM) 2022",
+      "date": "2022-09-01",
+      "issuer": "National Zebrafish conference",
+      "url": "https://www.iiserpune.ac.in/events/3489/indian-zebrafish-investigators-meeting-izim-2022",
       "icon": "fa-solid fa-envelope"
     },
     {
