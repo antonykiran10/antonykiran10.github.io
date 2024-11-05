@@ -100,8 +100,30 @@
       "url": "https://joymonteiro.github.io/",
       "startDate": "2021-05-01",
       "endDate": "2021-06-30",
-      "summary": "[BharatSim](https://bharatsim.ashoka.edu.in/) for compartmentalized epidemiological modelling",
+      "summary": "<a href=\"https://bharatsim.ashoka.edu.in\">BharatSim</a> for compartmentalized epidemiological modelling",
       "highlights": ["Documented a tutorial for epidemiological modelling using BharatSim"]
+    },
+    {
+      "organization": "iGEM IISER-Pune-India 2020",
+      "location": "Pune, India",
+      "position": "Core Team member:",
+      "url": "https://2020.igem.org/Team:IISER-Pune-India/",
+      "startDate": "2019-11-01",
+      "endDate": "2020-11-30",
+      "summary": "Anopheles: The Half Blood Princess",
+      "highlights": ["A web scrapper for mining the PDB database",
+    "Scripts for computational saturated mutagenesis, scoring of peptide interaction and analyzing MD simulations data",
+  "A method for homology-based modelling of circular peptides on MODELLER package",
+"Documenting the project on the team wiki and GitHub; writing grant proposals"]
+    },
+    {
+      "organization": "Neuronal Connectivity Laboratory, IISER Pune",
+      "location": "Pune, India",
+      "position": "Winter Intern:",
+      "url": "https://neuronalconnectivity.wixsite.com/start",
+      "startDate": "2019-12-01",
+      "endDate": "2020-02-28",
+      "summary": "A short internship to get familiarized with basic laboratory techniques and zebrafish handling for research purposes"
     }
   ],
 
