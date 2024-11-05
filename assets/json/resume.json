@@ -90,7 +90,18 @@
       "startDate": "2021-07-01",
       "endDate": "2022-01-31",
       "summary": "Simulate computational models for Astrocyte-Neuron interaction",
-      "highlights": ["Replicated a detailed biophysical model for calcium-dependent gliotransmitter release at a tripartite synapse which was developed in the lab [Pillai and Nadkarni, 2022](https://doi.org/10.1371/journal.pcbi.1010334)."]
+      "highlights": ["Replicated a detailed biophysical model for calcium-dependent gliotransmitter release at a tripartite synapse which was developed in the lab <a href=\"https://doi.org/10.1371/journal.pcbi.1010334\">Pillai and Nadkarni, 2022</a>."]
+    },
+
+    {
+      "organization": "Weather, Climate and People, IISER Pune",
+      "location": "Pune, India",
+      "position": "Summer Intern",
+      "url": "https://joymonteiro.github.io/",
+      "startDate": "2021-05-01",
+      "endDate": "2021-06-30",
+      "summary": "[BharatSim](https://bharatsim.ashoka.edu.in/) for compartmentalized epidemiological modelling",
+      "highlights": ["Documented a tutorial for epidemiological modelling using BharatSim"]
     }
   ],
 
