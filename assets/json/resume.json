@@ -163,7 +163,7 @@
       "date": "2024-07-01",
       "issuer": "Computational Neuroscience Summer School",
       "url": "https://campiiser.com/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "No-Garland Neuroscience (NGN) 2023",
@@ -177,28 +177,28 @@
       "date": "2022-09-01",
       "issuer": "National Zebrafish conference",
       "url": "https://www.iiserpune.ac.in/events/3489/indian-zebrafish-investigators-meeting-izim-2022",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "iGEM Indian Jamboree Meetup 2021",
       "date": "2021-11-01",
       "issuer": "iGEM India Meetup",
       "url": "https://2020.igem.org/Team:IISER-Pune-India",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "iGEM Giant Jamboree 2020",
       "date": "2020-11-01",
       "issuer": "Final Gathering of iGEM Competition",
       "url": "https://2020.igem.org/Giant_Jamboree",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "All India iGEM Meet 2020",
       "date": "2020-07-01",
       "issuer": "iGEM India Meetup",
       "url": "https://2020.igem.org/Team:IISER-Pune-India",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
@@ -265,6 +265,62 @@
       "keywords": [
         "Homology-based 3D structure prediction of proteins", "Computational saturated mutagenesis", "Motif identification and inhibitor designing", "Molecular dynamic simulations"
       ]
+    },
+    {
+      "name": "Theoretical modelling",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Numerical computation involving stochastic differential equations", "Compartmental models", "Epidemiological models", "Spiking neuron models"
+     ]
+    },
+    {
+      "name": "Data science",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Computer Vision for video analysis", "Data handling (HDF5, CSV)", "Data visualization", "Statistical analysis", "Web scrapping"
+     ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Python", "C++", "R", "Scala", "MATLAB", "Arduino", "Bash"
+     ]
+    },
+    {
+      "name": "Microscopy",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Widefield epifluorescence microscopy", "Confocal microscopy"
+     ]
+    },
+    {
+      "name": "Other computational skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Experience with SLURM based supercomputing clusters", "Knowledge of basic computer hardware", "Automation of routine tasks", "GitHub"
+     ]
+    },
+    {
+      "name": "Other technical skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Soldering", "Basic Electronic circuits"
+     ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Presentations", "Scientific writing", "Digital Illustration", "Ability to work in a team", "Project management", "Familiarity with most online communication platforms"
+     ]
     }
   ],
   "languages": [
