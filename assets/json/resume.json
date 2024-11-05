@@ -157,12 +157,12 @@
       "summary": "Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation and our team's project was voted the best project by all other competing teams."
     }
   ],
-  "certificates": [
+  "conferences": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Computational Approaches in Memory and Plasticity (CAMP) 2024",
+      "date": "2024-07-01",
+      "issuer": "Computational Neuroscience Summer School",
+      "url": "https://campiiser.com/",
       "icon": "fa-solid fa-location-dot"
     },
     {
