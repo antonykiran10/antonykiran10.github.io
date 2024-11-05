@@ -73,7 +73,7 @@
     {
       "organization": "Curem Biotech LLP",
       "location": "Pune, India",
-      "position": "R&D intern",
+      "position": "R&D intern (Part-time)",
       "url": "https://www.curembiotech.com/",
       "startDate": "2021-07-01",
       "endDate": "2022-02-28",
@@ -81,6 +81,16 @@
       "highlights": ["An in-silico pipeline for designing and optimizing aptamers (ssDNA/RNA)",
     "An inventory of potential biomarkers against P. falciparum malaria",
   "Involved in the initial phase of the R&D work for finding new leads for the project."]
+    },
+    {
+      "organization": "Computational Neurobiology Laboratory, IISER Pune",
+      "location": "Pune, India",
+      "position": "Semester Project Student",
+      "url": "https://sites.google.com/view/computationalneurobiologylab/home",
+      "startDate": "2021-07-01",
+      "endDate": "2022-01-31",
+      "summary": "Simulate computational models for Astrocyte-Neuron interaction",
+      "highlights": ["Replicated a detailed biophysical model for calcium-dependent gliotransmitter release at a tripartite synapse which was developed in the lab [Pillai and Nadkarni, 2022](https://doi.org/10.1371/journal.pcbi.1010334)."]
     }
   ],
 
