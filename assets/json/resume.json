@@ -226,16 +226,44 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Molecular Biology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "RT-qPCR", "Western Blot", "Molecular Cloning"
+      ]
+    },
+    {
+      "name": "Primary Neuronal culture",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Adult mouse DRG", "Drug treatments", "Immunofluorescence"
+      ]
+    },
+    {
+      "name": "Zebrafish handling",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "Embryo microinjection", "Natural breeding", "Maintenance of different transgenic and wild type lines", "Genotyping", "Restrained larval behavioural experiments", "Free swimming larval behavioural experiments"
+      ]
+    },
+    {
+      "name": "Mouse Handling",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "DRG and Sciatic nerve dissection", "Cardiac Perfusion", "Euthanasia", "Intra-peritoneal, sub-cutaneous and intra-muscular injections", "Oral gavage"
+      ]
+    },
+    
+    {
+      "name": "Bioinformatics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Homology-based 3D structure prediction of proteins", "Computational saturated mutagenesis", "Motif identification and inhibitor designing", "Molecular dynamic simulations"
       ]
     }
   ],

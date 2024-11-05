@@ -636,12 +636,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  # - publications
   - projects
   - research
   - awards
   - conferences
   - skills
   - languages
-  - interests
+  # - interests
   - references
