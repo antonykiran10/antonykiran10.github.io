@@ -31,6 +31,21 @@
       "highlights": ["Understanding the role of microtubule post-translational modifications at the onset of chemotherapy-induced peripheral neuropathy (CIPN).", "Designing and standardizing behavioural assays to probe neuronal developmental disorders in larval zebrafish and developing a computer-vision-based tracker for the analysis"]
     }
   ],
+  "education": [
+    {
+      "institution": "Indian Institute of Science Education and Research (IISER) Pune",
+      "location": "India",
+      "url": "https://www.iiserpune.ac.in/",
+      "area": "Biology",
+      "studyType": "BS-MS Dual Degree",
+      "startDate": "2018-07-01",
+      "endDate": "2023-05-31",
+      "courses": ["Introductory courses in all basic and applied disciplines of Biology, Chemistry, Physics, Mathematics, Earth and Climate Sciences, Humanities and Computation. During the first two years.",
+    "Advanced courses in Biochemistry, Developmental Biology, Structural biology, Advanced immunology, Scientific literature Review, Mathematical and Computational Biology, Evolution and Biology of Disease during my 3rd and 4th year",
+  "A yearlong master’s thesis during the 5th year entitled “Visually guided behaviours in Zebrafish larvae and the role of Fmn2b” at the Neuronal Connectivity Laboratory, IISER Pune."]
+    }
+
+  ],
   "research": [
     {
       "organization": "Neuronal Connectivity Laboratory, IISER Pune",
@@ -68,21 +83,7 @@
   "Involved in the initial phase of the R&D work for finding new leads for the project."]
     }
   ],
-  "education": [
-    {
-      "institution": "Indian Institute of Science Education and Research (IISER) Pune",
-      "location": "India",
-      "url": "https://www.iiserpune.ac.in/",
-      "area": "Biology",
-      "studyType": "BS-MS Dual Degree",
-      "startDate": "2018-07-01",
-      "endDate": "2023-05-31",
-      "courses": ["Introductory courses in all basic and applied disciplines of Biology, Chemistry, Physics, Mathematics, Earth and Climate Sciences, Humanities and Computation. During the first two years.",
-    "Advanced courses in Biochemistry, Developmental Biology, Structural biology, Advanced immunology, Scientific literature Review, Mathematical and Computational Biology, Evolution and Biology of Disease during my 3rd and 4th year",
-  "A yearlong master’s thesis during the 5th year entitled “Visually guided behaviours in Zebrafish larvae and the role of Fmn2b” at the Neuronal Connectivity Laboratory, IISER Pune."]
-    }
 
-  ],
   "awards": [
     {
       "title": "CSIR-Junior Research Fellowship (CSIR-JRF)",
