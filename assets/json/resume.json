@@ -86,11 +86,32 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CSIR-Junior Research Fellowship (CSIR-JRF)",
+      "date": "2022-03-01",
+      "awarder": "Council of Scientific and Industrial Research(CSIR), Government of India",
+      "url": "https://www.csirhrdg.res.in/Home/Index/1/Default/3104/60",
+      "summary": "National level entrance examination of Council of Scientific and Industrial Research (CSIR) for eligibility for lectureship and funded PhD and projects in Indian Universities."
+    },
+    {
+      "title": "Graduate Aptitude Test in Engineering (GATE)",
+      "date": "2022-03-01",
+      "awarder": "Ministry of Education, Government of India ",
+      "url": "https://gate.iitkgp.ac.in/",
+      "summary": "National Level aptitude test in Engineering conducted jointly by the seven Indian Institute of Technology (IIT) and Indian Institute of Science (IISc), Bengaluru for admission into various master's and PhD programs in India and Recruitment into public sector companies."
+    },
+    {
+      "title": "Gold Medal at the iGEM Competition 2020",
+      "date": "2020-11-01",
+      "awarder": "iGEM Foundation ",
+      "url": "https://competition.igem.org/",
+      "summary": "Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation, and our team bagged the gold medal for satisfying the prescribed medal criteria."
+    },
+    {
+      "title": "iGEMer's Award 2020",
+      "date": "2020-11-01",
+      "awarder": "iGEM Foundation ",
+      "url": "https://competition.igem.org/",
+      "summary": "Represented IISER Pune at the International Genetically Engineered Machines (iGEM) competition, a synthetic biology expo organized by the iGEM foundation and our team's project was voted the best project by all other competing teams."
     }
   ],
   "certificates": [
@@ -177,13 +198,18 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Malayalam",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
