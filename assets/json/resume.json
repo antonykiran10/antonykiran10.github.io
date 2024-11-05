@@ -180,24 +180,24 @@
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "iGEM Indian Jamboree Meetup 2021",
+      "date": "2021-11-01",
+      "issuer": "iGEM India Meetup",
+      "url": "https://2020.igem.org/Team:IISER-Pune-India",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "iGEM Giant Jamboree 2020",
+      "date": "2020-11-01",
+      "issuer": "Final Gathering of iGEM Competition",
+      "url": "https://2020.igem.org/Giant_Jamboree",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "All India iGEM Meet 2020",
+      "date": "2020-07-01",
+      "issuer": "iGEM India Meetup",
+      "url": "https://2020.igem.org/Team:IISER-Pune-India",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
