@@ -637,7 +637,7 @@ jsonresume:
   - work
   - education
   # - publications
-  - projects
+  # - projects
   - research
   - awards
   - conferences
