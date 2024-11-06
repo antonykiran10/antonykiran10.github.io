@@ -125,7 +125,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: googleb47eb87b787c3a1b.html
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: 86323F36CE89B1B60D03EEC59D96E3AD
 
 # -----------------------------------------------------------------------------
 # Blog
