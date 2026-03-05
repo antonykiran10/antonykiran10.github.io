@@ -1,4 +1,4 @@
-# My Jekyll Site — The Silent Neuron
+# The Silent Neuron
 
 ## One-time setup
 
