@@ -5,6 +5,8 @@ date: 2026-03-05
 excerpt: "Not every neuron fires. Some sit at the edge of threshold, poised but never triggered — and that silence might be just as meaningful as the signal itself."
 ---
 
+Text drafted by Claude (Anthropic, 2026).
+
 Not every neuron fires. Some sit at the edge of threshold, poised but never triggered — and that silence might be just as meaningful as the signal itself.
 
 ## The idea of silence
