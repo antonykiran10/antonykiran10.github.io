@@ -21,6 +21,4 @@ The mechanisms that keep a neuron quiet are just as elaborate as those that make
 
 Understanding *why* a circuit is assembled the way it is requires understanding both what fires and what doesn't.
 
----
-
 *This is a demo post on The Silent Neuron. I'll be writing here about neuroscience and whatever else seems worth putting into words.*
