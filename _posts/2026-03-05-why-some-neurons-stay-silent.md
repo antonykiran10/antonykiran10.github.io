@@ -23,4 +23,4 @@ Understanding *why* a circuit is assembled the way it is requires understanding 
 
 ---
 
-*This is the first post on The Silent Neuron. I'll be writing here about neuroscience, the life of a PhD student in Paris, and whatever else seems worth putting into words.*
+*This is a demo post on The Silent Neuron. I'll be writing here about neuroscience and whatever else seems worth putting into words.*
