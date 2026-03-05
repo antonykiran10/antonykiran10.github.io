@@ -1,203 +1,65 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Antony Kiran KOLARIKKAL DAVID</title>
+  <title>Antony Kiran Kolarikkal David</title>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    :root {
-      --bg: #fafaf8;
-      --ink: #1a1a18;
-      --muted: #888880;
-      --accent: #b5a48a;
-      --rule: #e8e6e0;
-    }
-
+    :root { --bg: #fafaf8; --ink: #1a1a18; --muted: #888880; --accent: #b5a48a; --rule: #e8e6e0; }
     html { font-size: 16px; }
-
-    body {
-      background: var(--bg);
-      color: var(--ink);
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 300;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-
-    /* ── Layout ── */
-    main {
-      flex: 1;
-      max-width: 640px;
-      margin: 0 auto;
-      padding: 100px 32px 80px;
-      width: 100%;
-      opacity: 0;
-      transform: translateY(18px);
-      animation: rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.1s forwards;
-    }
-
-    @keyframes rise {
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    /* ── Photo ── */
-    .photo-wrap {
-      width: 80px;
-      height: 80px;
-      border-radius: 50%;
-      overflow: hidden;
-      margin-bottom: 36px;
-      background: var(--rule);
-      position: relative;
-    }
-
-    .photo-wrap img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    /* placeholder silhouette */
-    .photo-placeholder {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      align-items: flex-end;
-      justify-content: center;
-      overflow: hidden;
-    }
-
-    .photo-placeholder svg {
-      width: 56px;
-      height: 56px;
-      color: var(--accent);
-      margin-bottom: -4px;
-    }
-
-    /* ── Name ── */
-    h1 {
-      font-family: 'Lora', serif;
-      font-weight: 500;
-      font-size: clamp(1.6rem, 5vw, 2rem);
-      letter-spacing: -0.01em;
-      line-height: 1.15;
-      margin-bottom: 6px;
-    }
-
-    .tagline {
-      font-size: 0.85rem;
-      color: var(--muted);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 40px;
-    }
-
-    /* ── Rule ── */
-    hr {
-      border: none;
-      border-top: 1px solid var(--rule);
-      margin-bottom: 40px;
-    }
-
-    /* ── Bio ── */
-    .bio {
-      font-family: 'Lora', serif;
-      font-size: 1.05rem;
-      line-height: 1.8;
-      color: #3a3a36;
-      margin-bottom: 56px;
-    }
-
-    /* ── Contact ── */
-    .contact-label {
-      font-size: 0.75rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 16px;
-    }
-
-    .contact-list {
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .contact-list a {
-      color: var(--ink);
-      text-decoration: none;
-      font-size: 0.92rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      transition: color 0.2s;
-    }
-
-    .contact-list a:hover { color: var(--accent); }
-
-    .contact-list a .icon {
-      width: 16px;
-      height: 16px;
-      opacity: 0.45;
-      flex-shrink: 0;
-    }
-
-    /* ── Footer ── */
-    footer {
-      text-align: center;
-      padding: 24px 32px;
-      font-size: 0.75rem;
-      color: var(--rule);
-      border-top: 1px solid var(--rule);
-    }
+    body { background: var(--bg); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; min-height: 100vh; display: flex; flex-direction: column; }
+    main { flex: 1; max-width: 640px; margin: 0 auto; padding: 100px 32px 80px; width: 100%; opacity: 0; transform: translateY(18px); animation: rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.1s forwards; }
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+    .photo-wrap { width: 80px; height: 80px; border-radius: 50%; overflow: hidden; margin-bottom: 28px; background: var(--rule); }
+    .photo-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .photo-placeholder { width: 100%; height: 100%; display: flex; align-items: flex-end; justify-content: center; overflow: hidden; }
+    .photo-placeholder svg { width: 56px; height: 56px; color: var(--accent); margin-bottom: -4px; }
+    h1 { font-family: 'Lora', serif; font-weight: 500; font-size: clamp(1.6rem, 5vw, 2rem); letter-spacing: -0.01em; line-height: 1.15; margin-bottom: 6px; }
+    .tagline { font-size: 0.85rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 8px; }
+    .affiliation { font-size: 0.82rem; color: var(--muted); line-height: 1.6; margin-bottom: 40px; font-style: italic; }
+    hr { border: none; border-top: 1px solid var(--rule); margin-bottom: 40px; }
+    .bio { font-family: 'Lora', serif; font-size: 1.05rem; line-height: 1.8; color: #3a3a36; margin-bottom: 56px; }
+    .section-label { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 16px; }
+    .link-list { list-style: none; display: flex; flex-direction: column; gap: 10px; margin-bottom: 40px; }
+    .link-list a { color: var(--ink); text-decoration: none; font-size: 0.92rem; display: inline-flex; align-items: center; gap: 10px; transition: color 0.2s; }
+    .link-list a:hover { color: var(--accent); }
+    .link-list a .icon { width: 16px; height: 16px; opacity: 0.45; flex-shrink: 0; }
+    footer { text-align: center; padding: 24px 32px; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--rule); }
   </style>
 </head>
 <body>
-
 <main>
 
-  <!-- Photo -->
   <div class="photo-wrap">
-    <!-- Replace the placeholder below with: <img src="your-photo.jpg" alt="Your Name" /> -->
+    <!-- Replace with: <img src="photo.jpg" alt="Antony Kiran" /> -->
     <div class="photo-placeholder">
-      <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="12" cy="8" r="4"/>
-        <path d="M4 20c0-4 3.582-7 8-7s8 3 8 7"/>
-      </svg>
+      <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.582-7 8-7s8 3 8 7"/></svg>
     </div>
   </div>
 
-  <!-- Name & tagline -->
-  <h1>Antony Kiran KOLARIKKAL DAVID</h1>
-  <p class="tagline">Neurobiologist</p>
+  <h1>Antony Kiran Kolarikkal David</h1>
+  <p class="tagline">Neurobiologist &middot; PhD Student</p>
+  <p class="affiliation">Sorbonne Université, CNRS, Inserm, Institut de la Vision, F-75012 Paris, France</p>
 
   <hr />
 
-  <!-- Bio -->
   <p class="bio">
-    I am a PhD student working with zebrafish trying to understand how neural circuits are assembed during development.
+    I am a PhD student working with zebrafish trying to understand how neural circuits are assembled during development.
   </p>
 
-  <!-- Contact -->
-  <p class="contact-label">Get in touch</p>
-  <ul class="contact-list">
-
+  <p class="section-label">Get in touch</p>
+  <ul class="link-list">
     <li>
       <a href="mailto:antony-kiran.kolarikkal-david@inserm.fr">
         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="2" y="4" width="20" height="16" rx="2"/>
-          <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+          <rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
         </svg>
         antony-kiran.kolarikkal-david@inserm.fr
       </a>
     </li>
-
     <li>
       <a href="https://twitter.com/_antonykiran10" target="_blank" rel="noopener">
         <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
@@ -206,7 +68,6 @@
         @_antonykiran10
       </a>
     </li>
-
     <li>
       <a href="https://www.linkedin.com/in/antonykiran10/" target="_blank" rel="noopener">
         <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
@@ -216,12 +77,9 @@
         in/antonykiran10
       </a>
     </li>
-
   </ul>
 
 </main>
-
-<footer>© 2026 Your Name</footer>
-
+<footer>© 2026 Antony Kiran Kolarikkal David</footer>
 </body>
 </html>
