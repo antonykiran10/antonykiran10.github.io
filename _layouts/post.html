@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<style>
+  .post-header {
+    margin-bottom: 48px;
+    opacity: 0; transform: translateY(16px);
+    animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) 0.05s forwards;
+  }
+  .post-header .back {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--muted); text-decoration: none; margin-bottom: 32px;
+    transition: color 0.2s;
+  }
+  .post-header .back:hover { color: var(--ink); }
+  .post-date { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+  .post-header h1 { font-family: 'Lora', serif; font-weight: 500; font-size: clamp(1.6rem, 5vw, 2.2rem); letter-spacing: -0.02em; line-height: 1.15; }
+  hr { border: none; border-top: 1px solid var(--rule); margin: 40px 0; }
+
+  .post-body {
+    opacity: 0; transform: translateY(12px);
+    animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) 0.15s forwards;
+  }
+  .post-body p { font-family: 'Lora', serif; font-size: 1.05rem; line-height: 1.85; color: #3a3a36; margin-bottom: 1.5em; }
+  .post-body h2 { font-family: 'Lora', serif; font-size: 1.25rem; font-weight: 500; margin: 2.5em 0 0.75em; }
+  .post-body h3 { font-family: 'Lora', serif; font-size: 1.05rem; font-weight: 500; font-style: italic; margin: 2em 0 0.6em; }
+  .post-body ul, .post-body ol { font-family: 'Lora', serif; font-size: 1.05rem; line-height: 1.85; color: #3a3a36; margin: 0 0 1.5em 1.4em; }
+  .post-body li { margin-bottom: 0.4em; }
+  .post-body a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  .post-body blockquote { border-left: 2px solid var(--accent); padding-left: 20px; margin: 2em 0; font-style: italic; color: var(--muted); }
+  .post-body code { font-size: 0.88em; background: var(--rule); padding: 2px 6px; border-radius: 3px; }
+  .post-body pre { background: var(--rule); padding: 20px; border-radius: 4px; overflow-x: auto; margin-bottom: 1.5em; }
+  .post-body img { max-width: 100%; border-radius: 4px; margin: 1.5em 0; }
+</style>
+
+<div class="post-header">
+  <a class="back" href="/blog">← All posts</a>
+  <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
+  <h1>{{ page.title }}</h1>
+</div>
+<hr />
+<div class="post-body">
+  {{ content }}
+</div>

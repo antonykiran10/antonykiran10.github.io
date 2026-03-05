@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --bg: #fafaf8; --ink: #1a1a18; --muted: #888880; --accent: #b5a48a; --rule: #e8e6e0; }
+    html { font-size: 16px; }
+    body { background: var(--bg); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; min-height: 100vh; display: flex; flex-direction: column; }
+
+    nav {
+      position: fixed; top: 0; left: 0; right: 0;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 24px 40px;
+      background: var(--bg);
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.3s;
+      z-index: 10;
+    }
+    nav.scrolled { border-color: var(--rule); }
+    .nav-name { font-family: 'Lora', serif; font-size: 0.9rem; font-weight: 500; color: var(--ink); text-decoration: none; }
+    .nav-links { display: flex; gap: 28px; }
+    .nav-links a { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); text-decoration: none; transition: color 0.2s; }
+    .nav-links a:hover, .nav-links a.active { color: var(--ink); }
+
+    main { flex: 1; max-width: 640px; margin: 0 auto; padding: 120px 32px 80px; width: 100%; }
+
+    footer { text-align: center; padding: 24px 32px; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--rule); }
+    footer a { color: inherit; text-decoration: none; }
+
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+  </style>
+</head>
+<body>
+
+<nav id="nav">
+  <a class="nav-name" href="/">{{ site.title | split: " " | first }} {{ site.title | split: " " | second }}</a>
+  <div class="nav-links">
+    <a href="/" {% if page.url == "/" %}class="active"{% endif %}>About</a>
+    <a href="/blog" {% if page.url contains "/blog" %}class="active"{% endif %}>{{ site.blog_title }}</a>
+  </div>
+</nav>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  © {{ "now" | date: "%Y" }} {{ site.author }} &middot; <a href="/blog">{{ site.blog_title }}</a>
+</footer>
+
+<script>
+  const nav = document.getElementById('nav');
+  window.addEventListener('scroll', () => nav.classList.toggle('scrolled', window.scrollY > 10));
+</script>
+</body>
+</html>
