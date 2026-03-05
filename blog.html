@@ -1,0 +1,62 @@
+---
+layout: default
+title: The Silent Neuron
+permalink: /blog/
+---
+<style>
+  .blog-header {
+    margin-bottom: 64px;
+    opacity: 0; transform: translateY(16px);
+    animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) 0.05s forwards;
+  }
+  .blog-header h1 { font-family: 'Lora', serif; font-weight: 500; font-size: clamp(1.8rem, 6vw, 2.4rem); letter-spacing: -0.02em; line-height: 1.1; margin-bottom: 10px; }
+  .blog-header .subtitle { font-size: 0.85rem; color: var(--muted); font-style: italic; font-family: 'Lora', serif; }
+  .blog-header hr { border: none; border-top: 1px solid var(--rule); margin-top: 32px; }
+
+  .post-list { list-style: none; }
+  .post-item {
+    padding: 28px 0;
+    border-bottom: 1px solid var(--rule);
+    opacity: 0; transform: translateY(12px);
+    animation: rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+  .post-item:nth-child(1) { animation-delay: 0.15s; }
+  .post-item:nth-child(2) { animation-delay: 0.22s; }
+  .post-item:nth-child(3) { animation-delay: 0.29s; }
+  .post-item:nth-child(4) { animation-delay: 0.36s; }
+  .post-item:nth-child(5) { animation-delay: 0.43s; }
+  .post-item:nth-child(n+6) { animation-delay: 0.5s; }
+
+  .post-meta { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+  .post-title { font-family: 'Lora', serif; font-size: 1.15rem; font-weight: 500; line-height: 1.4; margin-bottom: 8px; }
+  .post-title a { color: var(--ink); text-decoration: none; transition: color 0.2s; }
+  .post-title a:hover { color: var(--accent); }
+  .post-excerpt { font-size: 0.9rem; color: var(--muted); line-height: 1.7; margin-bottom: 14px; }
+  .read-more { font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); text-decoration: none; transition: opacity 0.2s; }
+  .read-more:hover { opacity: 0.65; }
+
+  .empty { padding: 48px 0; font-family: 'Lora', serif; font-style: italic; color: var(--muted); font-size: 1rem; opacity: 0; animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) 0.2s forwards; }
+</style>
+
+<header class="blog-header">
+  <h1>{{ site.blog_title }}</h1>
+  <p class="subtitle">{{ site.blog_subtitle }}</p>
+  <hr />
+</header>
+
+{% if site.posts.size > 0 %}
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li class="post-item">
+    <p class="post-meta">{{ post.date | date: "%d %B %Y" }}</p>
+    <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% if post.excerpt %}
+    <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 35 }}</p>
+    {% endif %}
+    <a class="read-more" href="{{ post.url }}">Read &rarr;</a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty">No posts yet — the first one is coming soon.</p>
+{% endif %}

@@ -1,0 +1,15 @@
+title: "Antony Kiran Kolarikkal David"
+blog_title: "The Silent Neuron"
+blog_subtitle: "Writing on neuroscience, science, and everything in between."
+author: "Antony Kiran Kolarikkal David"
+email: antony-kiran.kolarikkal-david@inserm.fr
+twitter: _antonykiran10
+linkedin: antonykiran10
+affiliation: "Sorbonne Université, CNRS, Inserm, Institut de la Vision, F-75012 Paris, France"
+description: "PhD student in neurobiology working with zebrafish."
+url: "https://yourusername.github.io"  # ← replace with your GitHub username
+
+# Build
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+exclude: [README.md, Gemfile, Gemfile.lock]
